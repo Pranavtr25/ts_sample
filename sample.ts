@@ -1,1 +1,1 @@
-let suresh = true
+let sample : string = "hello world"
